@@ -1,0 +1,501 @@
+customer_id,segment_true,daypart_mode,daypart_code,favorite_drink,favorite_drink_code,favorite_food,favorite_food_code,visits_per_month,avg_ticket_usd,avg_drinks_per_visit,avg_food_items_per_visit,pct_food_orders,avg_dwell_minutes,pct_mobile_orders,pct_dine_in,discount_redemption_rate,weekend_share_pct,avg_party_size,work_session_pct
+C0001,Morning Commuters (Grab & Go),Morning,1,Espresso,6,None,0,20,6.61,1.06,0.14,4.9,7,75.0,25.2,22.6,22.5,1.3,12.1
+C0002,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,None,0,13,5.21,0.92,0.22,27.0,2,50.6,10.3,2.7,18.0,1.1,3.1
+C0003,Morning Commuters (Grab & Go),Morning,1,Americano,2,Pastry,1,22,4.07,0.96,0.16,5.2,9,36.4,24.0,20.3,10.5,1.3,3.8
+C0004,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,Pastry,1,23,6.47,0.83,0.0,0.0,7,54.0,9.3,25.4,15.6,1.0,2.1
+C0005,Morning Commuters (Grab & Go),Morning,1,Latte,3,None,0,8,5.39,0.92,0.33,23.4,3,73.9,11.0,21.7,16.2,1.1,1.5
+C0006,Morning Commuters (Grab & Go),Morning,1,Tea,7,None,0,11,5.78,1.0,0.3,27.2,5,37.4,12.9,24.3,15.3,1.1,9.2
+C0007,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,None,0,19,5.59,1.17,0.12,6.2,7,38.6,35.4,4.0,35.7,1.0,6.5
+C0008,Morning Commuters (Grab & Go),Morning,1,Americano,2,Breakfast Sandwich,2,16,6.06,1.31,0.02,0.0,6,65.1,16.8,21.3,17.0,1.2,8.9
+C0009,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,None,0,18,7.27,0.84,0.26,21.0,5,51.0,4.3,15.0,15.6,1.2,4.9
+C0010,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,None,0,14,6.36,1.11,0.19,11.4,6,66.7,17.8,13.2,0.0,1.2,8.1
+C0011,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,Lunch Sandwich,3,22,6.04,0.89,0.0,3.9,5,54.8,7.1,26.7,9.1,1.4,2.5
+C0012,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,None,0,22,5.16,1.12,0.14,15.0,6,67.6,6.1,32.8,15.4,1.4,18.4
+C0013,Morning Commuters (Grab & Go),Morning,1,Tea,7,Pastry,1,18,4.53,1.03,0.2,17.4,10,36.4,17.3,35.9,11.1,1.0,0.0
+C0014,Morning Commuters (Grab & Go),Morning,1,Americano,2,None,0,24,5.71,0.78,0.0,0.0,2,54.8,10.2,31.1,31.8,1.2,12.6
+C0015,Morning Commuters (Grab & Go),Morning,1,Cold Brew,5,Breakfast Sandwich,2,20,6.15,1.19,0.19,23.7,5,51.2,12.2,16.9,16.4,1.0,13.2
+C0016,Morning Commuters (Grab & Go),Morning,1,Latte,3,Pastry,1,14,7.97,0.96,0.0,0.0,7,33.1,10.1,21.5,30.9,1.1,0.0
+C0017,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,Breakfast Sandwich,2,20,6.33,0.97,0.42,31.8,7,26.9,12.7,25.7,18.6,1.0,18.4
+C0018,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,None,0,13,7.18,0.89,0.4,33.8,5,67.3,13.4,19.2,18.4,1.4,11.0
+C0019,Morning Commuters (Grab & Go),Morning,1,Cold Brew,5,None,0,22,5.7,0.95,0.1,23.1,2,48.7,0.0,19.3,17.1,1.2,10.8
+C0020,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,Pastry,1,18,5.02,1.11,0.22,9.0,7,36.6,15.3,26.2,18.0,1.1,5.2
+C0021,Morning Commuters (Grab & Go),Morning,1,Espresso,6,None,0,17,5.23,1.02,0.0,6.2,11,53.3,2.1,17.4,35.2,1.3,3.7
+C0022,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,None,0,15,5.47,1.1,0.0,0.0,2,75.3,0.0,10.7,0.0,1.0,3.7
+C0023,Morning Commuters (Grab & Go),Morning,1,Latte,3,None,0,24,8.33,1.1,0.09,10.3,9,13.9,9.5,13.9,0.0,1.0,7.3
+C0024,Morning Commuters (Grab & Go),Morning,1,Cold Brew,5,Lunch Sandwich,3,17,5.38,1.25,0.0,12.6,5,28.1,10.7,24.3,12.6,1.3,13.4
+C0025,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,Pastry,1,16,7.04,1.0,0.29,29.1,6,38.4,4.5,18.0,18.1,1.1,6.1
+C0026,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,Pastry,1,16,5.3,0.83,0.55,43.7,3,81.3,16.6,21.4,24.9,1.2,0.0
+C0027,Morning Commuters (Grab & Go),Morning,1,Iced Latte,8,Pastry,1,21,7.13,1.21,0.0,0.0,5,60.1,0.0,24.7,22.7,1.0,9.9
+C0028,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,None,0,20,6.58,1.0,0.0,0.2,10,68.8,6.7,14.3,14.2,1.1,10.5
+C0029,Morning Commuters (Grab & Go),Morning,1,Americano,2,None,0,20,6.04,1.22,0.2,16.1,8,34.5,5.3,25.6,28.2,1.5,8.9
+C0030,Morning Commuters (Grab & Go),Morning,1,Americano,2,None,0,20,6.16,1.11,0.47,31.2,11,34.8,9.6,21.8,28.3,1.3,9.5
+C0031,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,Pastry,1,29,5.55,1.03,0.0,0.0,10,63.1,12.2,5.7,19.8,1.1,3.4
+C0032,Morning Commuters (Grab & Go),Morning,1,Cold Brew,5,None,0,16,6.65,1.1,0.2,19.7,7,56.0,1.9,32.4,27.6,1.0,0.0
+C0033,Morning Commuters (Grab & Go),Morning,1,Cold Brew,5,Breakfast Sandwich,2,15,5.75,1.34,0.51,33.8,11,64.9,15.8,13.0,20.7,1.0,0.0
+C0034,Morning Commuters (Grab & Go),Morning,1,Americano,2,Pastry,1,14,4.97,1.36,0.0,0.0,7,51.6,10.5,1.4,12.4,1.0,0.0
+C0035,Morning Commuters (Grab & Go),Morning,1,Cold Brew,5,None,0,21,4.92,1.06,0.0,0.0,8,60.0,0.0,7.5,25.0,1.2,6.4
+C0036,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,Pastry,1,24,6.37,1.07,0.07,9.9,5,57.8,0.0,7.8,19.1,1.3,4.5
+C0037,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,None,0,17,7.78,1.21,0.05,9.2,6,69.0,9.9,18.5,18.0,1.0,2.4
+C0038,Morning Commuters (Grab & Go),Morning,1,Latte,3,Salad,4,14,6.36,0.92,0.31,28.5,4,69.5,8.2,15.3,32.7,1.0,0.0
+C0039,Morning Commuters (Grab & Go),Morning,1,Seasonal Special,9,Breakfast Sandwich,2,14,6.08,1.1,0.2,25.8,9,25.8,9.2,14.6,0.0,1.0,0.0
+C0040,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,Breakfast Sandwich,2,21,6.49,1.05,0.0,0.7,2,14.5,9.8,24.2,3.8,1.0,11.7
+C0041,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,None,0,22,7.51,1.1,0.25,25.3,8,73.0,11.8,21.4,6.1,1.1,1.0
+C0042,Morning Commuters (Grab & Go),Morning,1,Americano,2,None,0,21,6.42,0.92,0.03,5.4,5,76.4,17.6,21.2,14.4,1.0,7.2
+C0043,Morning Commuters (Grab & Go),Morning,1,Cold Brew,5,None,0,15,5.79,0.81,0.4,32.2,10,36.6,1.1,22.1,15.5,1.2,0.0
+C0044,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,None,0,19,7.31,0.74,0.02,0.0,8,21.5,0.6,24.2,2.9,1.3,13.6
+C0045,Morning Commuters (Grab & Go),Morning,1,Americano,2,None,0,19,6.63,0.88,0.02,19.7,11,56.8,1.3,0.0,8.1,1.0,4.1
+C0046,Morning Commuters (Grab & Go),Morning,1,Cappuccino,4,None,0,19,7.74,0.98,0.26,19.3,8,71.8,12.3,14.4,9.4,1.0,6.7
+C0047,Morning Commuters (Grab & Go),Morning,1,Americano,2,Dessert,5,22,6.38,1.01,0.3,20.6,2,87.4,20.0,0.0,42.6,1.0,19.0
+C0048,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,None,0,19,4.98,1.34,0.24,24.8,6,64.3,6.5,18.4,36.0,1.3,14.1
+C0049,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,None,0,21,4.83,1.22,0.0,2.0,2,48.3,0.0,18.0,13.9,1.0,3.2
+C0050,Morning Commuters (Grab & Go),Morning,1,Americano,2,Pastry,1,18,7.85,0.91,0.26,11.7,4,38.9,0.0,28.5,14.4,1.0,1.4
+C0051,Morning Commuters (Grab & Go),Morning,1,Americano,2,Pastry,1,19,7.92,1.1,0.0,9.0,11,55.2,3.3,29.9,6.5,1.0,3.0
+C0052,Morning Commuters (Grab & Go),Morning,1,Espresso,6,Pastry,1,21,6.02,0.99,0.2,17.4,8,49.6,5.5,20.0,0.0,1.3,8.1
+C0053,Morning Commuters (Grab & Go),Morning,1,Latte,3,Pastry,1,11,5.82,1.01,0.0,0.0,4,36.7,6.7,13.0,16.8,1.0,4.4
+C0054,Morning Commuters (Grab & Go),Morning,1,Cappuccino,4,Breakfast Sandwich,2,16,7.66,1.08,0.24,30.8,3,91.9,10.3,22.9,8.0,1.2,2.6
+C0055,Morning Commuters (Grab & Go),Morning,1,Iced Latte,8,Pastry,1,16,5.09,1.14,0.0,5.0,6,87.1,7.5,12.7,17.2,1.2,13.8
+C0056,Morning Commuters (Grab & Go),Morning,1,Americano,2,None,0,15,5.31,1.0,0.0,0.0,2,75.4,18.4,18.0,2.0,1.5,4.3
+C0057,Morning Commuters (Grab & Go),Morning,1,Americano,2,Pastry,1,17,6.84,1.21,0.29,39.4,4,38.4,4.6,27.9,10.4,1.1,18.8
+C0058,Morning Commuters (Grab & Go),Morning,1,Espresso,6,None,0,25,5.81,0.88,0.2,23.4,7,70.4,3.1,12.4,19.5,1.2,5.5
+C0059,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,None,0,14,6.19,1.05,0.03,2.9,9,66.5,13.8,26.1,21.7,1.0,15.7
+C0060,Morning Commuters (Grab & Go),Morning,1,Cappuccino,4,None,0,23,6.04,1.44,0.44,48.3,8,63.0,0.0,24.8,22.2,1.3,7.1
+C0061,Morning Commuters (Grab & Go),Morning,1,Cold Brew,5,None,0,10,6.54,1.08,0.06,7.1,2,77.5,13.1,8.5,4.8,1.0,10.8
+C0062,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,Pastry,1,16,7.61,1.26,0.16,14.6,7,66.4,10.8,27.7,26.5,1.0,0.7
+C0063,Morning Commuters (Grab & Go),Morning,1,Americano,2,None,0,19,6.29,1.06,0.2,12.8,6,68.3,8.8,25.0,10.0,1.1,0.0
+C0064,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,None,0,21,6.84,1.14,0.03,7.6,7,66.5,22.7,19.0,24.3,1.0,7.8
+C0065,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,None,0,22,4.15,1.04,0.24,25.2,11,61.1,5.0,10.4,17.9,1.1,10.9
+C0066,Morning Commuters (Grab & Go),Morning,1,Americano,2,Pastry,1,22,6.15,1.02,0.04,4.0,2,22.9,26.5,9.4,4.2,1.3,5.2
+C0067,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,None,0,16,5.36,0.93,0.07,0.4,4,56.5,8.2,12.6,14.8,1.2,0.0
+C0068,Morning Commuters (Grab & Go),Morning,1,Cold Brew,5,Pastry,1,16,4.98,1.11,0.42,35.3,8,45.0,0.0,23.4,21.7,1.0,0.0
+C0069,Morning Commuters (Grab & Go),Morning,1,Espresso,6,Breakfast Sandwich,2,22,5.32,0.92,0.0,0.0,2,32.0,10.6,8.4,24.1,1.1,0.0
+C0070,Morning Commuters (Grab & Go),Morning,1,Cold Brew,5,None,0,17,5.87,1.15,0.0,0.0,10,85.3,1.4,22.4,16.6,1.2,0.0
+C0071,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,Pastry,1,12,7.12,1.21,0.47,25.7,7,86.1,4.0,5.6,33.3,1.0,5.7
+C0072,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,None,0,12,4.87,1.1,0.66,52.8,9,79.5,13.2,16.0,28.1,1.0,11.8
+C0073,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,None,0,13,6.23,1.01,0.07,0.0,4,59.6,14.4,19.1,15.4,1.3,4.9
+C0074,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,Pastry,1,20,5.72,1.12,0.0,1.6,8,79.3,5.0,42.5,25.5,1.2,0.0
+C0075,Morning Commuters (Grab & Go),Morning,1,Tea,7,Breakfast Sandwich,2,19,5.87,1.0,0.09,4.8,9,55.2,17.9,4.2,37.3,1.2,3.9
+C0076,Morning Commuters (Grab & Go),Morning,1,Americano,2,None,0,21,7.2,1.19,0.09,19.1,7,58.7,19.3,32.7,37.6,1.5,4.0
+C0077,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,Pastry,1,16,6.74,0.78,0.11,6.5,7,35.3,21.5,19.5,5.7,1.2,17.6
+C0078,Morning Commuters (Grab & Go),Morning,1,Cold Brew,5,None,0,19,7.54,1.0,0.0,5.3,7,62.1,14.2,22.1,8.7,1.2,0.0
+C0079,Morning Commuters (Grab & Go),Morning,1,Americano,2,Pastry,1,21,6.05,0.75,0.27,20.5,3,56.1,20.9,19.2,32.8,1.6,2.7
+C0080,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,Pastry,1,16,5.5,0.83,0.25,23.0,6,31.6,0.0,22.4,7.4,1.1,15.2
+C0081,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,Pastry,1,20,5.98,1.25,0.0,5.9,6,54.1,7.5,16.5,4.8,1.0,7.7
+C0082,Morning Commuters (Grab & Go),Morning,1,Latte,3,Pastry,1,15,6.44,1.18,0.29,21.5,7,53.6,3.1,32.5,13.1,1.2,8.4
+C0083,Morning Commuters (Grab & Go),Morning,1,Cold Brew,5,None,0,16,6.38,0.94,0.56,50.9,9,87.4,11.0,13.4,22.2,1.2,5.7
+C0084,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,Pastry,1,16,5.12,0.82,0.18,8.5,3,71.1,5.4,29.3,17.0,1.0,7.0
+C0085,Morning Commuters (Grab & Go),Morning,1,Espresso,6,Pastry,1,12,6.29,0.7,0.08,10.0,6,55.2,8.7,11.6,11.5,1.0,9.7
+C0086,Morning Commuters (Grab & Go),Morning,1,Espresso,6,Pastry,1,20,6.43,0.97,0.12,18.7,10,59.5,25.1,17.4,11.3,1.6,0.1
+C0087,Morning Commuters (Grab & Go),Morning,1,Cold Brew,5,None,0,16,8.72,1.41,0.27,28.9,4,55.8,8.6,7.3,10.9,1.2,10.3
+C0088,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,None,0,18,8.08,1.12,0.0,15.3,4,51.3,13.3,22.6,9.2,1.0,0.0
+C0089,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,None,0,20,5.35,0.97,0.18,10.4,7,35.5,8.1,32.5,40.8,1.3,7.0
+C0090,Morning Commuters (Grab & Go),Morning,1,Espresso,6,None,0,20,5.91,1.12,0.07,0.0,9,52.3,10.6,17.2,21.0,1.1,6.1
+C0091,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,None,0,21,4.74,0.82,0.52,32.6,6,41.6,10.0,16.0,26.9,1.0,1.3
+C0092,Morning Commuters (Grab & Go),Morning,1,Latte,3,None,0,18,5.61,1.01,0.12,16.6,10,32.5,13.6,6.9,13.1,1.2,4.9
+C0093,Morning Commuters (Grab & Go),Morning,1,Cold Brew,5,Pastry,1,16,6.52,1.06,0.48,42.1,9,64.2,19.3,15.7,16.1,1.0,1.3
+C0094,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,None,0,18,7.41,1.04,0.0,0.8,9,62.0,23.2,2.1,10.9,1.2,0.0
+C0095,Morning Commuters (Grab & Go),Morning,1,Cold Brew,5,Pastry,1,10,5.47,1.17,0.27,14.7,8,22.8,12.5,8.9,0.0,1.5,2.9
+C0096,Morning Commuters (Grab & Go),Morning,1,Tea,7,None,0,11,5.55,1.1,0.21,25.1,13,52.8,14.7,20.3,4.2,1.2,0.0
+C0097,Morning Commuters (Grab & Go),Morning,1,Cappuccino,4,Pastry,1,11,4.05,1.15,0.0,0.0,5,72.9,0.8,31.2,0.0,1.0,6.9
+C0098,Morning Commuters (Grab & Go),Morning,1,Americano,2,None,0,13,6.04,0.95,0.19,26.6,2,74.1,9.3,46.1,0.0,1.0,0.0
+C0099,Morning Commuters (Grab & Go),Morning,1,Espresso,6,None,0,20,5.14,1.18,0.39,55.2,11,73.5,17.5,12.1,6.0,1.0,9.3
+C0100,Morning Commuters (Grab & Go),Morning,1,Americano,2,Pastry,1,13,5.67,1.29,0.09,11.5,5,55.7,16.9,32.4,31.2,1.0,0.0
+C0101,Morning Commuters (Grab & Go),Morning,1,Cappuccino,4,Breakfast Sandwich,2,16,5.32,0.9,0.0,4.7,6,39.8,11.7,20.4,17.6,1.0,1.6
+C0102,Morning Commuters (Grab & Go),Morning,1,Cold Brew,5,None,0,24,6.11,0.92,0.15,10.0,10,35.5,17.1,16.5,30.9,1.3,1.3
+C0103,Morning Commuters (Grab & Go),Morning,1,Cappuccino,4,None,0,16,4.44,1.25,0.0,0.0,2,61.2,13.9,22.3,22.1,1.0,13.0
+C0104,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,Pastry,1,22,4.73,1.02,0.08,2.9,2,61.8,19.6,18.6,25.8,1.3,7.0
+C0105,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,Pastry,1,13,8.33,1.26,0.13,3.4,2,78.2,12.3,19.1,9.0,1.0,3.7
+C0106,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,None,0,17,4.91,0.98,0.0,0.0,4,74.8,7.2,13.9,23.2,1.2,8.0
+C0107,Morning Commuters (Grab & Go),Morning,1,Americano,2,None,0,13,5.1,1.27,0.0,13.8,7,52.6,12.7,4.0,25.3,1.0,0.0
+C0108,Morning Commuters (Grab & Go),Morning,1,Americano,2,None,0,16,8.04,1.07,0.25,24.3,8,32.6,0.0,2.6,12.2,1.4,4.7
+C0109,Morning Commuters (Grab & Go),Morning,1,Latte,3,Breakfast Sandwich,2,22,9.11,1.09,0.05,7.9,7,49.3,13.1,24.5,23.6,1.3,17.0
+C0110,Morning Commuters (Grab & Go),Morning,1,Americano,2,None,0,9,5.03,1.28,0.0,0.0,2,58.9,0.0,15.2,23.7,1.3,5.8
+C0111,Morning Commuters (Grab & Go),Morning,1,Cold Brew,5,None,0,20,5.83,1.0,0.31,25.3,2,51.4,0.0,12.0,12.5,1.0,5.4
+C0112,Morning Commuters (Grab & Go),Morning,1,Espresso,6,Salad,4,19,6.54,0.91,0.2,25.8,6,44.6,13.6,18.1,6.8,1.3,8.3
+C0113,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,None,0,15,7.93,0.98,0.01,0.7,5,59.6,13.8,25.9,6.2,1.2,10.4
+C0114,Morning Commuters (Grab & Go),Morning,1,Cappuccino,4,None,0,11,5.21,1.12,0.0,4.2,7,45.9,0.7,19.8,18.9,1.0,0.0
+C0115,Morning Commuters (Grab & Go),Morning,1,Latte,3,None,0,18,5.95,0.82,0.32,25.8,8,43.7,4.3,11.4,21.3,1.1,0.0
+C0116,Morning Commuters (Grab & Go),Morning,1,Americano,2,None,0,15,6.98,1.15,0.22,17.0,6,60.6,21.0,30.3,10.1,1.2,6.3
+C0117,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,None,0,19,6.63,0.97,0.63,35.5,8,47.8,6.1,33.8,18.3,1.2,0.7
+C0118,Morning Commuters (Grab & Go),Morning,1,Cold Brew,5,None,0,18,5.82,1.22,0.23,4.7,7,59.4,27.9,22.9,23.7,1.1,12.9
+C0119,Morning Commuters (Grab & Go),Morning,1,Iced Latte,8,Pastry,1,26,6.07,0.7,0.23,18.5,8,59.9,10.0,27.7,24.2,1.2,3.1
+C0120,Morning Commuters (Grab & Go),Morning,1,Cappuccino,4,Pastry,1,17,4.83,0.93,0.12,11.8,4,34.5,13.3,30.4,33.5,1.4,0.0
+C0121,Morning Commuters (Grab & Go),Morning,1,Espresso,6,None,0,13,5.96,0.8,0.31,16.4,5,46.3,22.9,29.3,30.8,1.3,0.0
+C0122,Morning Commuters (Grab & Go),Morning,1,Iced Latte,8,Pastry,1,19,5.93,0.93,0.28,24.1,7,80.9,11.0,24.1,8.0,1.0,0.0
+C0123,Morning Commuters (Grab & Go),Morning,1,Americano,2,None,0,19,6.43,1.09,0.4,33.4,8,34.1,2.0,24.0,34.8,1.0,3.6
+C0124,Morning Commuters (Grab & Go),Morning,1,Latte,3,Lunch Sandwich,3,25,5.64,1.02,0.05,0.0,5,16.9,9.1,23.2,12.7,1.1,3.9
+C0125,Morning Commuters (Grab & Go),Morning,1,Americano,2,None,0,22,6.67,1.01,0.06,0.0,8,21.5,9.7,7.0,28.4,1.0,2.5
+C0126,Morning Commuters (Grab & Go),Morning,1,Iced Latte,8,Pastry,1,20,7.21,1.03,0.05,8.1,5,55.5,0.0,25.0,18.7,1.1,11.5
+C0127,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,None,0,25,6.36,1.08,0.31,29.8,6,55.6,8.0,4.4,13.9,1.3,12.2
+C0128,Morning Commuters (Grab & Go),Morning,1,Americano,2,Pastry,1,12,6.55,0.9,0.45,27.0,8,52.9,4.1,10.1,0.0,1.0,4.0
+C0129,Morning Commuters (Grab & Go),Morning,1,Espresso,6,None,0,15,6.25,1.16,0.06,7.1,2,76.9,17.4,31.0,16.3,1.2,0.0
+C0130,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,Pastry,1,13,6.2,1.15,0.07,14.9,2,6.9,10.3,26.4,2.4,1.0,8.7
+C0131,Morning Commuters (Grab & Go),Morning,1,Cold Brew,5,None,0,16,5.48,1.11,0.21,25.2,2,62.1,7.7,32.9,27.7,1.0,8.3
+C0132,Morning Commuters (Grab & Go),Morning,1,Americano,2,Breakfast Sandwich,2,11,6.52,1.13,0.1,8.8,2,83.1,9.2,15.3,33.2,1.4,6.9
+C0133,Morning Commuters (Grab & Go),Morning,1,Iced Latte,8,None,0,21,6.1,1.09,0.34,25.1,4,34.7,11.8,6.5,10.0,1.0,10.9
+C0134,Morning Commuters (Grab & Go),Morning,1,Espresso,6,Pastry,1,17,8.29,1.36,0.0,0.0,8,48.2,14.9,15.6,21.0,1.2,0.0
+C0135,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,Pastry,1,11,7.77,1.04,0.0,3.7,5,41.4,2.0,19.0,10.7,1.0,17.1
+C0136,Morning Commuters (Grab & Go),Morning,1,Cold Brew,5,Dessert,5,13,6.59,1.0,0.0,1.6,7,38.9,1.7,18.8,11.7,1.5,0.0
+C0137,Morning Commuters (Grab & Go),Morning,1,Drip Coffee,1,None,0,20,5.44,0.94,0.0,5.0,9,49.1,18.8,29.3,25.7,1.2,9.5
+C0138,Morning Commuters (Grab & Go),Morning,1,Latte,3,None,0,22,5.09,0.9,0.0,1.1,10,80.7,6.7,14.4,17.6,1.1,0.0
+C0139,Morning Commuters (Grab & Go),Morning,1,Latte,3,None,0,28,7.39,0.86,0.0,6.6,6,88.1,0.0,21.5,35.4,1.2,0.0
+C0140,Morning Commuters (Grab & Go),Morning,1,Cold Brew,5,None,0,30,6.46,0.92,0.11,11.2,10,49.0,13.6,8.1,13.2,1.0,14.1
+C0141,Morning Breakfast Buyers,Morning,1,Latte,3,Breakfast Sandwich,2,13,10.83,1.45,0.97,68.7,2,27.7,58.1,15.6,15.6,1.2,2.3
+C0142,Morning Breakfast Buyers,Morning,1,Seasonal Special,9,Dessert,5,13,10.58,1.37,1.2,63.4,8,30.3,35.1,9.1,4.5,1.5,0.0
+C0143,Morning Breakfast Buyers,Morning,1,Seasonal Special,9,Breakfast Sandwich,2,7,9.96,1.07,0.8,52.3,33,65.3,36.8,18.0,31.4,1.2,33.3
+C0144,Morning Breakfast Buyers,Morning,1,Drip Coffee,1,Pastry,1,3,14.42,0.97,0.49,17.1,14,9.0,50.0,42.1,31.0,1.0,18.2
+C0145,Morning Breakfast Buyers,Morning,1,Cold Brew,5,Breakfast Sandwich,2,16,11.79,1.31,0.47,32.5,2,42.5,31.2,4.8,32.1,1.4,6.7
+C0146,Morning Breakfast Buyers,Morning,1,Cappuccino,4,None,0,11,12.11,0.93,0.64,43.1,28,9.8,48.8,6.0,3.5,1.1,22.5
+C0147,Morning Breakfast Buyers,Morning,1,Cold Brew,5,Breakfast Sandwich,2,3,9.12,1.1,0.62,38.0,18,33.4,38.7,4.4,25.6,1.8,16.9
+C0148,Morning Breakfast Buyers,Morning,1,Drip Coffee,1,Pastry,1,7,9.0,1.13,0.91,61.1,27,28.5,25.5,40.7,30.1,1.2,29.7
+C0149,Morning Breakfast Buyers,Morning,1,Americano,2,Breakfast Sandwich,2,13,10.87,1.47,0.65,47.3,20,3.7,25.6,14.5,9.6,1.0,0.0
+C0150,Morning Breakfast Buyers,Morning,1,Drip Coffee,1,Breakfast Sandwich,2,9,11.11,1.08,0.77,35.6,22,40.8,61.7,19.7,22.1,1.3,7.3
+C0151,Morning Breakfast Buyers,Morning,1,Cappuccino,4,None,0,8,7.46,0.7,0.76,55.0,21,29.3,37.7,15.2,20.6,1.8,5.4
+C0152,Morning Breakfast Buyers,Morning,1,Seasonal Special,9,None,0,16,10.48,1.25,0.84,49.4,24,3.5,64.6,8.7,44.1,1.7,0.0
+C0153,Morning Breakfast Buyers,Morning,1,Cold Brew,5,Breakfast Sandwich,2,6,10.83,1.01,1.28,76.1,36,47.6,32.3,17.2,45.1,1.7,20.6
+C0154,Morning Breakfast Buyers,Morning,1,Cold Brew,5,None,0,7,10.41,1.16,1.12,57.1,26,56.5,44.4,49.5,2.0,1.0,7.3
+C0155,Morning Breakfast Buyers,Morning,1,Seasonal Special,9,Breakfast Sandwich,2,11,9.34,1.13,0.95,61.6,5,57.4,75.9,36.7,51.9,1.5,17.4
+C0156,Morning Breakfast Buyers,Morning,1,Cold Brew,5,Breakfast Sandwich,2,12,9.83,1.1,0.83,54.1,22,40.4,24.1,9.8,11.0,1.0,33.6
+C0157,Morning Breakfast Buyers,Morning,1,Drip Coffee,1,Pastry,1,12,10.48,1.31,0.84,59.3,27,35.7,11.5,27.8,33.8,1.3,6.5
+C0158,Morning Breakfast Buyers,Morning,1,Iced Latte,8,Pastry,1,14,10.96,0.84,1.03,65.3,28,54.9,59.3,10.0,33.6,1.0,5.8
+C0159,Morning Breakfast Buyers,Morning,1,Latte,3,Breakfast Sandwich,2,11,11.89,1.05,1.1,64.7,15,60.2,27.6,0.0,10.1,1.0,11.2
+C0160,Morning Breakfast Buyers,Morning,1,Drip Coffee,1,Dessert,5,12,12.75,1.29,0.72,39.0,27,52.0,39.7,32.2,27.9,1.0,19.9
+C0161,Morning Breakfast Buyers,Morning,1,Latte,3,Pastry,1,9,10.27,1.03,0.96,49.9,25,20.9,31.2,33.9,20.7,1.5,4.3
+C0162,Morning Breakfast Buyers,Morning,1,Iced Latte,8,Dessert,5,10,9.98,0.83,0.44,30.9,39,38.0,44.0,32.6,28.7,1.4,3.7
+C0163,Morning Breakfast Buyers,Morning,1,Americano,2,Breakfast Sandwich,2,10,11.59,1.28,1.0,63.1,12,41.6,25.7,14.4,24.8,1.3,20.6
+C0164,Morning Breakfast Buyers,Morning,1,Latte,3,Breakfast Sandwich,2,11,11.9,1.37,1.14,63.2,14,7.9,37.3,18.0,36.4,1.0,13.8
+C0165,Morning Breakfast Buyers,Morning,1,Drip Coffee,1,Breakfast Sandwich,2,13,10.02,1.14,0.88,63.5,16,42.0,46.7,29.0,22.9,1.1,0.0
+C0166,Morning Breakfast Buyers,Morning,1,Drip Coffee,1,Breakfast Sandwich,2,12,12.22,0.76,1.4,73.1,14,69.1,24.9,24.7,20.0,1.0,0.0
+C0167,Morning Breakfast Buyers,Morning,1,Drip Coffee,1,Breakfast Sandwich,2,10,12.56,1.29,0.73,44.1,11,44.6,29.5,15.3,35.2,1.5,25.0
+C0168,Morning Breakfast Buyers,Morning,1,Espresso,6,Breakfast Sandwich,2,7,13.13,0.82,1.0,61.0,2,57.1,34.8,0.6,29.0,1.6,14.0
+C0169,Morning Breakfast Buyers,Morning,1,Iced Latte,8,Breakfast Sandwich,2,10,14.0,1.21,0.94,62.7,15,37.7,18.6,21.4,30.8,1.5,2.4
+C0170,Morning Breakfast Buyers,Morning,1,Drip Coffee,1,Breakfast Sandwich,2,10,9.24,0.97,0.92,62.7,21,33.9,33.7,32.9,14.0,1.0,8.3
+C0171,Morning Breakfast Buyers,Morning,1,Americano,2,Pastry,1,11,10.83,0.92,0.92,75.2,14,40.7,41.8,5.6,9.5,1.0,10.1
+C0172,Morning Breakfast Buyers,Morning,1,Americano,2,Breakfast Sandwich,2,19,10.82,1.06,0.98,57.1,33,22.8,34.0,27.7,15.2,1.0,17.4
+C0173,Morning Breakfast Buyers,Morning,1,Drip Coffee,1,None,0,8,10.62,1.11,1.16,68.1,18,20.5,35.9,24.0,14.6,1.6,0.0
+C0174,Morning Breakfast Buyers,Morning,1,Cappuccino,4,Pastry,1,12,9.63,1.02,1.29,75.9,28,54.0,39.7,29.0,31.4,1.1,1.6
+C0175,Morning Breakfast Buyers,Morning,1,Cold Brew,5,Pastry,1,14,8.13,1.27,0.95,61.1,20,55.6,30.2,30.5,33.7,1.0,12.7
+C0176,Morning Breakfast Buyers,Morning,1,Cold Brew,5,Pastry,1,10,10.97,1.06,1.15,64.3,25,20.1,50.4,11.7,20.1,1.7,9.0
+C0177,Morning Breakfast Buyers,Morning,1,Latte,3,Breakfast Sandwich,2,19,9.42,1.35,0.77,41.3,20,49.5,61.5,0.6,39.2,1.6,15.7
+C0178,Morning Breakfast Buyers,Morning,1,Cappuccino,4,Breakfast Sandwich,2,8,10.95,1.21,1.14,63.9,29,33.7,33.0,13.6,38.4,1.2,0.0
+C0179,Morning Breakfast Buyers,Morning,1,Drip Coffee,1,Breakfast Sandwich,2,11,9.37,1.01,0.76,44.6,18,40.1,47.3,30.7,24.9,1.1,13.6
+C0180,Morning Breakfast Buyers,Morning,1,Drip Coffee,1,Pastry,1,7,8.82,0.98,1.22,56.7,22,41.9,36.4,13.5,12.1,1.2,20.9
+C0181,Morning Breakfast Buyers,Morning,1,Iced Latte,8,Breakfast Sandwich,2,9,11.22,0.82,1.5,71.3,21,49.9,45.5,11.7,40.9,1.3,14.9
+C0182,Morning Breakfast Buyers,Morning,1,Espresso,6,Breakfast Sandwich,2,11,11.07,1.21,0.92,51.8,16,36.2,63.5,0.0,21.3,1.7,11.4
+C0183,Morning Breakfast Buyers,Morning,1,Iced Latte,8,Breakfast Sandwich,2,13,11.84,1.08,0.4,37.6,21,56.2,47.6,41.0,23.5,1.3,9.0
+C0184,Morning Breakfast Buyers,Morning,1,Iced Latte,8,Breakfast Sandwich,2,11,14.73,0.7,0.81,60.3,36,39.6,13.4,29.9,17.9,1.4,1.7
+C0185,Morning Breakfast Buyers,Morning,1,Cold Brew,5,Breakfast Sandwich,2,15,11.3,1.04,1.26,64.4,16,44.4,46.8,29.2,11.3,1.6,9.3
+C0186,Morning Breakfast Buyers,Morning,1,Iced Latte,8,Breakfast Sandwich,2,10,11.67,0.97,1.09,64.3,21,22.5,58.5,31.6,4.4,1.0,22.6
+C0187,Morning Breakfast Buyers,Morning,1,Latte,3,Dessert,5,9,8.86,1.47,1.01,48.7,28,67.4,36.7,26.9,29.6,1.4,8.8
+C0188,Morning Breakfast Buyers,Morning,1,Drip Coffee,1,Breakfast Sandwich,2,21,8.48,0.81,1.2,65.9,27,42.0,54.9,17.1,12.6,1.1,1.1
+C0189,Morning Breakfast Buyers,Morning,1,Drip Coffee,1,Breakfast Sandwich,2,12,13.65,0.86,1.07,68.9,18,45.7,29.6,18.0,58.7,1.0,5.1
+C0190,Morning Breakfast Buyers,Morning,1,Drip Coffee,1,Breakfast Sandwich,2,7,9.14,1.37,1.25,77.9,2,10.9,17.7,14.9,9.0,1.0,12.0
+C0191,Morning Breakfast Buyers,Morning,1,Drip Coffee,1,None,0,7,8.92,1.42,1.18,63.6,22,22.7,42.1,51.6,6.9,1.0,6.3
+C0192,Morning Breakfast Buyers,Morning,1,Latte,3,Salad,4,6,10.73,1.0,1.33,82.0,2,53.6,13.7,26.7,28.1,1.4,14.9
+C0193,Morning Breakfast Buyers,Morning,1,Cold Brew,5,Breakfast Sandwich,2,14,10.64,1.02,1.04,52.5,30,39.3,36.4,14.4,40.4,1.2,15.2
+C0194,Morning Breakfast Buyers,Morning,1,Tea,7,Pastry,1,9,9.18,1.27,1.18,59.3,19,6.3,59.3,25.6,22.8,1.3,18.9
+C0195,Morning Breakfast Buyers,Morning,1,Cappuccino,4,Dessert,5,11,10.25,0.7,0.87,63.8,26,50.6,11.4,7.9,28.9,1.8,24.2
+C0196,Morning Breakfast Buyers,Morning,1,Drip Coffee,1,Breakfast Sandwich,2,10,13.01,0.78,0.8,68.4,11,26.8,20.8,38.1,0.0,1.0,20.0
+C0197,Morning Breakfast Buyers,Morning,1,Espresso,6,None,0,13,9.35,1.09,1.38,78.8,6,56.2,24.5,12.1,13.9,1.2,0.7
+C0198,Morning Breakfast Buyers,Morning,1,Latte,3,None,0,7,8.29,1.46,1.0,62.9,20,33.7,39.1,26.0,9.1,1.3,1.0
+C0199,Morning Breakfast Buyers,Morning,1,Drip Coffee,1,None,0,6,12.5,1.06,1.15,50.8,18,38.1,34.5,32.8,0.0,1.0,9.2
+C0200,Morning Breakfast Buyers,Morning,1,Americano,2,Breakfast Sandwich,2,11,11.69,1.17,0.98,46.3,14,52.7,61.0,24.6,23.4,1.2,5.5
+C0201,Morning Breakfast Buyers,Morning,1,Latte,3,None,0,12,9.68,1.38,0.8,56.1,19,21.5,54.3,21.1,0.0,1.0,0.0
+C0202,Morning Breakfast Buyers,Morning,1,Americano,2,Salad,4,11,7.95,1.57,0.95,58.5,40,20.1,47.4,20.1,6.1,1.6,5.6
+C0203,Morning Breakfast Buyers,Morning,1,Tea,7,Salad,4,7,9.46,1.03,1.31,64.2,25,32.1,42.2,19.3,15.6,1.0,5.3
+C0204,Morning Breakfast Buyers,Morning,1,Espresso,6,Breakfast Sandwich,2,13,10.7,1.15,1.09,66.9,26,47.4,45.9,13.1,12.0,1.8,3.3
+C0205,Morning Breakfast Buyers,Morning,1,Cold Brew,5,Breakfast Sandwich,2,7,12.9,1.51,0.52,41.5,25,15.0,27.1,14.6,26.8,1.2,6.8
+C0206,Morning Breakfast Buyers,Morning,1,Drip Coffee,1,Breakfast Sandwich,2,8,8.93,0.85,0.9,66.9,30,10.0,52.9,37.8,25.7,1.5,21.8
+C0207,Morning Breakfast Buyers,Morning,1,Tea,7,None,0,6,10.65,1.36,1.4,76.4,16,47.4,23.3,18.7,32.7,1.2,12.0
+C0208,Morning Breakfast Buyers,Morning,1,Cold Brew,5,Breakfast Sandwich,2,15,12.02,0.95,0.9,69.2,2,26.0,52.5,10.6,31.0,1.2,34.7
+C0209,Morning Breakfast Buyers,Morning,1,Americano,2,Pastry,1,13,6.51,1.17,0.5,39.4,16,29.1,57.8,13.8,35.7,1.0,11.7
+C0210,Morning Breakfast Buyers,Morning,1,Cold Brew,5,Pastry,1,12,12.66,1.1,1.42,74.9,24,7.1,43.2,33.2,22.0,1.2,7.1
+C0211,Morning Breakfast Buyers,Morning,1,Latte,3,Breakfast Sandwich,2,15,8.67,0.96,1.12,75.9,10,24.8,37.4,28.1,25.6,1.3,10.0
+C0212,Morning Breakfast Buyers,Morning,1,Latte,3,None,0,21,11.4,0.95,0.93,52.7,17,34.9,46.0,26.7,28.1,1.0,12.6
+C0213,Morning Breakfast Buyers,Morning,1,Drip Coffee,1,Breakfast Sandwich,2,3,11.24,1.21,0.86,80.2,12,49.0,0.0,16.9,23.7,1.2,14.4
+C0214,Morning Breakfast Buyers,Morning,1,Latte,3,Breakfast Sandwich,2,7,12.75,1.35,1.22,73.5,30,23.4,44.5,26.9,17.2,1.0,30.8
+C0215,Morning Breakfast Buyers,Morning,1,Drip Coffee,1,Breakfast Sandwich,2,8,11.79,1.12,0.81,58.6,24,59.9,38.3,12.3,18.0,1.9,1.5
+C0216,Morning Breakfast Buyers,Morning,1,Drip Coffee,1,Breakfast Sandwich,2,7,6.52,1.16,1.24,75.3,23,24.7,39.2,16.9,12.2,1.2,18.6
+C0217,Morning Breakfast Buyers,Morning,1,Drip Coffee,1,Lunch Sandwich,3,6,9.39,1.26,1.09,81.4,23,24.8,50.6,31.6,27.1,1.7,12.1
+C0218,Morning Breakfast Buyers,Morning,1,Seasonal Special,9,Breakfast Sandwich,2,9,11.05,0.96,1.01,69.9,18,58.1,38.9,30.5,20.9,1.1,0.0
+C0219,Morning Breakfast Buyers,Morning,1,Americano,2,Lunch Sandwich,3,5,10.45,1.3,0.99,50.0,20,38.2,22.9,8.2,14.0,1.3,17.7
+C0220,Morning Breakfast Buyers,Morning,1,Latte,3,Breakfast Sandwich,2,11,11.66,1.31,0.91,71.0,9,26.7,37.9,9.7,14.1,1.0,22.7
+C0221,Morning Breakfast Buyers,Morning,1,Latte,3,Pastry,1,10,12.22,1.67,1.21,67.5,2,32.7,41.0,21.3,7.5,1.1,1.4
+C0222,Morning Breakfast Buyers,Morning,1,Iced Latte,8,Salad,4,12,11.9,1.07,0.73,52.7,19,55.3,41.7,40.7,33.7,1.3,9.9
+C0223,Morning Breakfast Buyers,Morning,1,Cappuccino,4,Pastry,1,12,10.41,1.06,0.54,31.5,21,57.0,42.4,0.0,22.9,1.7,0.0
+C0224,Morning Breakfast Buyers,Morning,1,Iced Latte,8,None,0,12,7.48,1.3,1.1,70.9,28,22.7,55.6,23.3,11.6,1.3,0.0
+C0225,Morning Breakfast Buyers,Morning,1,Americano,2,Pastry,1,9,9.98,1.31,1.11,61.8,31,34.4,23.7,3.5,31.7,1.6,20.5
+C0226,Morning Breakfast Buyers,Morning,1,Drip Coffee,1,Breakfast Sandwich,2,18,11.55,1.04,1.07,66.5,31,36.4,42.6,12.4,15.3,1.4,5.3
+C0227,Morning Breakfast Buyers,Morning,1,Cappuccino,4,Breakfast Sandwich,2,11,8.84,1.07,1.05,62.7,10,20.2,59.3,15.6,5.1,1.7,0.0
+C0228,Morning Breakfast Buyers,Morning,1,Latte,3,Breakfast Sandwich,2,3,11.94,1.26,0.87,73.5,15,34.2,14.0,15.0,34.3,1.2,12.3
+C0229,Morning Breakfast Buyers,Morning,1,Tea,7,Lunch Sandwich,3,6,12.44,0.98,1.15,84.2,22,35.1,42.7,13.6,15.6,1.9,4.8
+C0230,Morning Breakfast Buyers,Morning,1,Iced Latte,8,Breakfast Sandwich,2,3,11.03,1.07,0.94,61.3,38,52.1,31.2,20.1,17.1,1.1,5.3
+C0231,Midday Remote Workers / Students,Afternoon,2,Espresso,6,Lunch Sandwich,3,8,6.78,1.34,0.12,16.0,84,38.0,84.3,11.8,16.0,1.3,54.4
+C0232,Midday Remote Workers / Students,Afternoon,2,Iced Latte,8,None,0,7,6.44,1.03,0.92,51.3,89,21.8,80.9,5.1,32.3,1.3,93.1
+C0233,Midday Remote Workers / Students,Afternoon,2,Latte,3,Pastry,1,11,8.72,0.97,1.09,66.0,27,24.8,85.3,10.3,37.0,1.0,71.3
+C0234,Midday Remote Workers / Students,Afternoon,2,Iced Latte,8,Pastry,1,7,11.4,1.38,0.02,2.5,149,18.2,65.0,12.9,26.9,1.1,78.1
+C0235,Midday Remote Workers / Students,Afternoon,2,Latte,3,Pastry,1,7,8.6,1.09,0.33,34.9,164,5.7,77.4,10.5,40.1,1.2,65.3
+C0236,Midday Remote Workers / Students,Afternoon,2,Iced Latte,8,Lunch Sandwich,3,11,10.99,1.14,0.46,51.6,78,12.1,94.8,11.7,24.3,1.2,58.1
+C0237,Midday Remote Workers / Students,Afternoon,2,Americano,2,None,0,6,9.46,1.13,1.07,68.8,126,3.5,78.7,0.0,25.4,1.1,100.0
+C0238,Midday Remote Workers / Students,Afternoon,2,Latte,3,Pastry,1,8,9.65,1.58,0.28,20.1,98,2.7,76.7,2.4,16.3,1.1,66.6
+C0239,Midday Remote Workers / Students,Afternoon,2,Cold Brew,5,Lunch Sandwich,3,3,6.76,1.32,0.28,30.7,125,22.8,98.1,10.5,40.2,1.4,62.0
+C0240,Midday Remote Workers / Students,Afternoon,2,Cold Brew,5,None,0,10,10.4,1.34,0.99,57.3,82,4.5,98.4,10.3,18.8,1.3,89.7
+C0241,Midday Remote Workers / Students,Afternoon,2,Iced Latte,8,Lunch Sandwich,3,14,8.36,1.61,0.32,19.1,70,21.8,90.2,6.3,32.2,1.2,57.0
+C0242,Midday Remote Workers / Students,Afternoon,2,Seasonal Special,9,None,0,10,10.28,1.35,0.7,36.3,157,2.4,80.4,10.2,27.1,1.4,59.3
+C0243,Midday Remote Workers / Students,Afternoon,2,Americano,2,Pastry,1,12,7.6,1.3,0.0,0.0,107,21.6,82.6,12.6,15.4,1.0,70.2
+C0244,Midday Remote Workers / Students,Afternoon,2,Latte,3,None,0,5,9.18,1.56,0.39,25.1,201,12.1,77.0,20.9,20.7,1.4,70.0
+C0245,Midday Remote Workers / Students,Afternoon,2,Latte,3,Breakfast Sandwich,2,9,9.46,1.63,0.0,0.0,112,34.9,75.1,11.0,44.6,1.2,74.7
+C0246,Midday Remote Workers / Students,Afternoon,2,Cappuccino,4,Lunch Sandwich,3,5,8.65,1.35,0.08,10.2,68,21.9,74.6,16.0,30.4,1.8,100.0
+C0247,Midday Remote Workers / Students,Afternoon,2,Cappuccino,4,Lunch Sandwich,3,7,9.55,1.43,0.74,42.7,165,32.8,78.8,6.6,15.9,1.0,76.1
+C0248,Midday Remote Workers / Students,Afternoon,2,Iced Latte,8,Dessert,5,10,8.47,1.13,0.43,9.8,138,8.9,74.7,17.7,31.7,1.0,27.2
+C0249,Midday Remote Workers / Students,Afternoon,2,Iced Latte,8,Breakfast Sandwich,2,8,7.86,1.1,0.34,20.5,143,18.7,69.4,15.8,26.2,1.2,75.9
+C0250,Midday Remote Workers / Students,Afternoon,2,Drip Coffee,1,Lunch Sandwich,3,4,11.47,1.67,0.19,13.5,164,6.2,87.2,20.7,69.4,1.2,70.7
+C0251,Midday Remote Workers / Students,Afternoon,2,Cappuccino,4,Pastry,1,4,10.58,1.56,0.37,26.1,81,13.0,87.3,19.1,31.4,1.5,70.8
+C0252,Midday Remote Workers / Students,Afternoon,2,Cold Brew,5,Salad,4,4,7.68,1.56,0.56,55.0,104,14.9,100.0,17.9,23.4,1.0,74.4
+C0253,Midday Remote Workers / Students,Afternoon,2,Cappuccino,4,Pastry,1,9,9.81,1.5,0.79,49.7,102,9.3,78.3,11.0,45.0,1.3,69.5
+C0254,Midday Remote Workers / Students,Afternoon,2,Americano,2,Lunch Sandwich,3,14,7.71,1.42,0.0,7.0,52,3.4,88.0,14.4,5.9,1.3,69.1
+C0255,Midday Remote Workers / Students,Afternoon,2,Latte,3,None,0,12,7.0,1.64,0.16,14.6,98,1.0,88.1,22.6,29.1,1.2,81.0
+C0256,Midday Remote Workers / Students,Afternoon,2,Cappuccino,4,Pastry,1,2,10.55,1.73,0.51,39.6,170,0.0,82.5,5.5,51.9,1.0,60.2
+C0257,Midday Remote Workers / Students,Afternoon,2,Latte,3,Breakfast Sandwich,2,12,6.17,1.72,0.42,27.6,121,5.3,92.4,5.7,26.6,1.4,52.9
+C0258,Midday Remote Workers / Students,Afternoon,2,Iced Latte,8,None,0,11,10.38,1.36,0.59,44.1,49,25.5,92.8,13.8,7.2,1.3,100.0
+C0259,Midday Remote Workers / Students,Afternoon,2,Latte,3,None,0,3,8.5,1.89,0.54,35.6,40,0.0,88.3,16.2,23.2,1.2,57.1
+C0260,Midday Remote Workers / Students,Afternoon,2,Cold Brew,5,Dessert,5,7,8.56,1.48,0.34,30.2,185,1.6,82.4,3.8,45.5,1.1,71.8
+C0261,Midday Remote Workers / Students,Afternoon,2,Cold Brew,5,Pastry,1,11,9.56,1.62,0.27,21.8,106,39.5,81.4,11.3,32.5,1.1,43.1
+C0262,Midday Remote Workers / Students,Afternoon,2,Iced Latte,8,None,0,10,9.83,1.5,0.36,22.7,81,10.4,71.3,11.1,17.9,1.1,72.1
+C0263,Midday Remote Workers / Students,Afternoon,2,Americano,2,Pastry,1,4,7.58,1.49,0.85,65.2,98,21.9,76.9,0.0,19.8,1.2,53.2
+C0264,Midday Remote Workers / Students,Afternoon,2,Americano,2,Pastry,1,10,10.05,1.14,0.19,20.7,44,25.7,78.8,9.8,21.3,1.1,62.0
+C0265,Midday Remote Workers / Students,Afternoon,2,Latte,3,Pastry,1,2,9.08,1.65,0.43,31.4,174,26.0,73.8,10.4,32.3,1.0,88.8
+C0266,Midday Remote Workers / Students,Afternoon,2,Cappuccino,4,Salad,4,7,6.89,2.4,0.51,41.1,92,0.0,89.4,10.4,44.1,1.0,78.5
+C0267,Midday Remote Workers / Students,Afternoon,2,Latte,3,Dessert,5,11,8.63,1.27,1.0,62.5,172,15.2,97.0,26.2,40.6,1.0,80.2
+C0268,Midday Remote Workers / Students,Afternoon,2,Iced Latte,8,Breakfast Sandwich,2,8,11.11,1.42,0.34,21.9,112,0.0,75.9,0.0,33.5,1.1,38.1
+C0269,Midday Remote Workers / Students,Afternoon,2,Latte,3,Breakfast Sandwich,2,7,11.58,1.24,0.79,55.2,174,47.4,87.8,3.8,12.0,1.1,100.0
+C0270,Midday Remote Workers / Students,Afternoon,2,Drip Coffee,1,Pastry,1,11,10.05,1.23,0.88,53.6,122,0.0,74.7,0.0,12.1,1.1,48.5
+C0271,Midday Remote Workers / Students,Afternoon,2,Cappuccino,4,Lunch Sandwich,3,11,7.0,1.94,0.43,27.4,148,5.4,82.0,7.2,34.4,1.2,97.5
+C0272,Midday Remote Workers / Students,Afternoon,2,Iced Latte,8,None,0,12,9.68,1.16,0.38,18.6,142,5.5,78.1,8.0,11.9,1.0,88.4
+C0273,Midday Remote Workers / Students,Afternoon,2,Iced Latte,8,None,0,11,10.26,1.23,0.33,25.2,138,0.0,91.0,6.9,25.3,1.4,80.4
+C0274,Midday Remote Workers / Students,Afternoon,2,Tea,7,Dessert,5,11,10.06,0.84,0.36,34.8,126,34.2,78.2,23.1,31.6,1.0,54.6
+C0275,Midday Remote Workers / Students,Afternoon,2,Cold Brew,5,Lunch Sandwich,3,10,10.16,1.13,0.75,47.2,100,47.1,95.1,20.6,14.3,1.0,72.7
+C0276,Midday Remote Workers / Students,Afternoon,2,Tea,7,Pastry,1,9,9.48,0.8,0.53,61.3,196,12.3,82.5,12.8,15.7,1.2,61.5
+C0277,Midday Remote Workers / Students,Afternoon,2,Tea,7,Breakfast Sandwich,2,8,8.78,1.62,0.53,48.2,69,2.2,78.5,8.3,26.9,1.0,70.5
+C0278,Midday Remote Workers / Students,Afternoon,2,Latte,3,Pastry,1,7,7.93,2.38,0.06,16.3,110,0.0,72.5,22.3,34.0,1.0,65.5
+C0279,Midday Remote Workers / Students,Afternoon,2,Cold Brew,5,Pastry,1,4,5.86,1.27,0.11,16.8,111,15.1,87.5,11.8,40.7,1.3,33.3
+C0280,Midday Remote Workers / Students,Afternoon,2,Iced Latte,8,None,0,5,9.44,0.82,1.2,84.7,128,14.2,94.0,3.8,35.3,1.0,90.2
+C0281,Midday Remote Workers / Students,Afternoon,2,Latte,3,None,0,7,9.2,1.71,0.39,26.0,91,10.2,87.7,0.0,28.9,1.3,68.5
+C0282,Midday Remote Workers / Students,Afternoon,2,Espresso,6,Pastry,1,9,9.79,1.15,0.18,0.0,124,20.7,100.0,7.6,19.0,1.4,61.3
+C0283,Midday Remote Workers / Students,Afternoon,2,Cappuccino,4,Pastry,1,12,6.76,1.85,0.95,57.8,102,22.7,99.3,19.5,15.1,1.0,59.9
+C0284,Midday Remote Workers / Students,Afternoon,2,Cold Brew,5,Pastry,1,8,9.93,1.3,0.55,46.8,39,21.9,81.9,34.8,21.9,1.2,76.5
+C0285,Midday Remote Workers / Students,Afternoon,2,Drip Coffee,1,None,0,11,12.19,1.18,0.65,49.0,110,14.2,81.8,12.6,32.9,1.3,53.9
+C0286,Midday Remote Workers / Students,Afternoon,2,Espresso,6,Salad,4,11,9.03,1.34,0.4,35.2,60,4.8,89.7,4.3,32.0,1.0,29.4
+C0287,Midday Remote Workers / Students,Afternoon,2,Iced Latte,8,Pastry,1,7,8.8,1.67,0.34,39.4,32,26.0,76.6,0.2,2.8,1.3,77.3
+C0288,Midday Remote Workers / Students,Afternoon,2,Americano,2,Lunch Sandwich,3,10,9.39,1.32,0.39,35.4,116,18.2,96.7,17.5,18.6,1.0,79.3
+C0289,Midday Remote Workers / Students,Afternoon,2,Latte,3,None,0,7,12.15,1.23,0.0,6.4,132,28.7,88.6,0.0,42.5,1.0,66.4
+C0290,Midday Remote Workers / Students,Afternoon,2,Drip Coffee,1,Pastry,1,12,7.26,1.33,0.42,26.8,134,27.5,87.6,17.5,29.0,1.0,49.3
+C0291,Midday Remote Workers / Students,Afternoon,2,Drip Coffee,1,Lunch Sandwich,3,10,9.23,0.95,0.55,33.5,136,0.9,91.9,20.2,11.0,1.2,71.6
+C0292,Midday Remote Workers / Students,Afternoon,2,Seasonal Special,9,Pastry,1,4,7.62,1.54,1.1,79.6,23,0.8,100.0,16.4,56.3,1.3,43.6
+C0293,Midday Remote Workers / Students,Afternoon,2,Cappuccino,4,None,0,8,8.02,0.77,0.48,38.9,49,8.9,86.7,9.8,27.7,1.1,51.5
+C0294,Midday Remote Workers / Students,Afternoon,2,Latte,3,None,0,13,8.82,1.24,0.0,0.0,199,5.3,83.9,17.6,32.6,1.0,56.5
+C0295,Midday Remote Workers / Students,Afternoon,2,Latte,3,None,0,7,11.06,1.67,0.42,29.3,63,27.1,100.0,13.7,32.8,1.0,85.2
+C0296,Midday Remote Workers / Students,Afternoon,2,Seasonal Special,9,Pastry,1,9,11.78,1.51,1.41,70.4,137,22.2,94.7,4.2,23.6,1.2,63.5
+C0297,Midday Remote Workers / Students,Afternoon,2,Latte,3,Pastry,1,10,9.62,1.61,0.75,47.1,79,31.2,81.8,30.5,19.3,1.5,61.9
+C0298,Midday Remote Workers / Students,Afternoon,2,Tea,7,None,0,5,8.3,1.38,0.17,5.4,114,22.8,85.1,8.5,53.5,1.2,100.0
+C0299,Midday Remote Workers / Students,Afternoon,2,Latte,3,Pastry,1,10,12.89,1.81,0.66,36.3,82,20.5,87.0,19.8,40.0,1.0,76.3
+C0300,Midday Remote Workers / Students,Afternoon,2,Drip Coffee,1,None,0,4,8.22,1.72,0.19,15.7,135,32.4,88.6,0.0,37.9,1.3,76.1
+C0301,Midday Remote Workers / Students,Afternoon,2,Tea,7,Pastry,1,6,7.99,1.56,0.0,0.0,116,23.6,71.4,24.8,34.9,1.1,63.3
+C0302,Midday Remote Workers / Students,Afternoon,2,Drip Coffee,1,Breakfast Sandwich,2,11,6.06,1.72,0.33,37.0,90,18.8,69.6,26.7,16.0,1.0,59.3
+C0303,Midday Remote Workers / Students,Afternoon,2,Tea,7,None,0,9,11.13,1.66,0.48,40.5,63,35.8,76.1,12.3,43.3,1.0,30.6
+C0304,Midday Remote Workers / Students,Afternoon,2,Latte,3,None,0,7,10.45,1.25,0.0,2.1,122,19.4,75.4,17.6,17.9,1.4,87.4
+C0305,Midday Remote Workers / Students,Afternoon,2,Tea,7,None,0,9,12.77,0.93,0.05,0.0,55,14.3,78.6,17.6,31.4,1.0,78.1
+C0306,Midday Remote Workers / Students,Afternoon,2,Iced Latte,8,None,0,8,6.68,1.55,0.45,35.3,129,7.9,91.3,5.6,8.3,1.3,66.8
+C0307,Midday Remote Workers / Students,Afternoon,2,Tea,7,Pastry,1,8,11.23,1.59,0.31,29.5,228,26.4,83.3,17.5,3.5,1.0,67.5
+C0308,Midday Remote Workers / Students,Afternoon,2,Drip Coffee,1,None,0,10,9.01,1.78,0.59,50.3,171,32.8,87.0,3.9,31.8,1.0,83.3
+C0309,Midday Remote Workers / Students,Afternoon,2,Tea,7,None,0,6,10.19,1.07,0.02,1.2,142,17.4,72.8,5.9,18.3,1.4,42.0
+C0310,Midday Remote Workers / Students,Afternoon,2,Seasonal Special,9,Dessert,5,8,6.26,1.08,0.7,59.0,106,33.7,80.4,23.3,4.1,1.0,59.4
+C0311,Midday Remote Workers / Students,Afternoon,2,Latte,3,Salad,4,7,11.25,1.56,0.04,4.0,23,0.0,90.9,21.7,34.5,1.0,49.5
+C0312,Midday Remote Workers / Students,Afternoon,2,Latte,3,None,0,3,10.16,1.38,1.02,70.3,50,17.3,90.9,4.9,53.4,1.1,100.0
+C0313,Midday Remote Workers / Students,Afternoon,2,Iced Latte,8,Pastry,1,5,8.84,0.74,0.0,0.0,168,17.5,77.8,4.7,44.7,1.2,85.8
+C0314,Midday Remote Workers / Students,Afternoon,2,Americano,2,Pastry,1,13,9.93,1.53,0.07,0.0,74,9.3,86.6,5.5,24.9,1.0,30.4
+C0315,Midday Remote Workers / Students,Afternoon,2,Espresso,6,Lunch Sandwich,3,9,7.68,0.75,0.6,47.3,79,46.6,100.0,19.3,28.1,1.0,42.8
+C0316,Afternoon Social / Meetups,Afternoon,2,Drip Coffee,1,None,0,6,11.78,1.97,0.12,18.1,59,20.4,62.3,32.0,33.2,2.7,17.8
+C0317,Afternoon Social / Meetups,Afternoon,2,Espresso,6,Lunch Sandwich,3,6,13.87,1.59,0.87,53.9,82,19.8,92.2,26.2,46.4,1.4,28.9
+C0318,Afternoon Social / Meetups,Afternoon,2,Cappuccino,4,Lunch Sandwich,3,6,10.43,0.94,0.86,72.8,83,16.7,77.2,15.9,25.4,2.5,0.0
+C0319,Afternoon Social / Meetups,Afternoon,2,Iced Latte,8,Pastry,1,4,9.43,1.53,0.81,52.5,76,15.3,90.6,0.9,17.9,2.5,15.4
+C0320,Afternoon Social / Meetups,Afternoon,2,Drip Coffee,1,Dessert,5,3,12.14,1.65,0.5,32.3,42,20.9,74.0,7.8,59.1,2.2,2.0
+C0321,Afternoon Social / Meetups,Afternoon,2,Iced Latte,8,Pastry,1,6,12.37,1.89,1.03,56.3,61,20.4,71.2,12.4,36.7,2.7,21.1
+C0322,Afternoon Social / Meetups,Afternoon,2,Latte,3,None,0,6,11.53,1.43,0.08,0.0,52,7.4,56.0,18.0,61.1,2.1,24.3
+C0323,Afternoon Social / Meetups,Afternoon,2,Tea,7,Lunch Sandwich,3,4,15.0,1.84,0.67,61.1,55,29.6,70.2,9.3,64.6,2.1,30.4
+C0324,Afternoon Social / Meetups,Afternoon,2,Tea,7,Pastry,1,7,10.43,1.62,0.47,48.5,111,8.3,70.2,3.8,38.7,2.1,8.6
+C0325,Afternoon Social / Meetups,Afternoon,2,Latte,3,None,0,3,12.99,1.09,0.43,39.8,16,17.4,49.5,0.7,56.9,1.0,26.1
+C0326,Afternoon Social / Meetups,Afternoon,2,Cappuccino,4,None,0,4,12.45,1.05,0.87,50.9,54,16.5,61.9,0.0,38.1,2.0,31.3
+C0327,Afternoon Social / Meetups,Afternoon,2,Iced Latte,8,Pastry,1,8,8.88,1.94,1.13,82.2,90,24.3,65.2,12.2,20.3,1.6,0.0
+C0328,Afternoon Social / Meetups,Afternoon,2,Espresso,6,Lunch Sandwich,3,7,9.4,1.97,0.56,40.1,23,0.0,76.2,0.0,49.8,1.3,22.3
+C0329,Afternoon Social / Meetups,Afternoon,2,Americano,2,Dessert,5,4,12.33,1.66,1.01,61.4,44,30.7,76.9,3.0,40.9,2.9,26.5
+C0330,Afternoon Social / Meetups,Afternoon,2,Cappuccino,4,Breakfast Sandwich,2,6,16.66,2.07,0.72,62.8,47,11.9,61.3,10.3,41.4,2.3,11.9
+C0331,Afternoon Social / Meetups,Afternoon,2,Latte,3,None,0,5,13.57,1.92,0.34,34.1,54,34.6,77.0,0.0,77.6,2.0,0.5
+C0332,Afternoon Social / Meetups,Afternoon,2,Tea,7,Breakfast Sandwich,2,1,8.5,1.79,0.6,62.7,20,14.3,67.3,19.6,25.1,1.7,26.3
+C0333,Afternoon Social / Meetups,Afternoon,2,Espresso,6,Dessert,5,3,5.46,1.23,0.58,46.0,75,19.4,27.0,23.9,53.7,2.2,0.6
+C0334,Afternoon Social / Meetups,Afternoon,2,Drip Coffee,1,Lunch Sandwich,3,5,13.91,2.16,0.42,31.1,77,43.0,62.7,8.4,33.1,2.6,12.9
+C0335,Afternoon Social / Meetups,Afternoon,2,Espresso,6,Pastry,1,4,12.09,1.74,0.87,53.2,73,16.7,86.2,9.8,61.6,1.5,14.5
+C0336,Afternoon Social / Meetups,Afternoon,2,Iced Latte,8,None,0,5,14.81,1.41,0.79,39.8,38,34.9,44.8,21.4,52.5,2.0,23.6
+C0337,Afternoon Social / Meetups,Afternoon,2,Iced Latte,8,Dessert,5,7,10.36,1.32,0.06,3.6,62,20.5,71.7,6.4,53.7,2.5,7.5
+C0338,Afternoon Social / Meetups,Afternoon,2,Drip Coffee,1,Dessert,5,4,13.07,1.64,0.04,13.1,38,25.0,93.8,5.6,33.8,1.0,6.8
+C0339,Afternoon Social / Meetups,Afternoon,2,Latte,3,None,0,3,14.16,0.97,0.87,62.9,52,20.8,58.6,29.4,36.5,2.0,16.2
+C0340,Afternoon Social / Meetups,Afternoon,2,Cappuccino,4,Salad,4,6,11.32,1.79,0.37,31.1,114,30.2,70.0,25.6,61.9,1.7,27.1
+C0341,Afternoon Social / Meetups,Afternoon,2,Latte,3,None,0,4,11.36,1.22,0.82,48.0,62,11.8,50.4,22.2,74.6,1.9,42.4
+C0342,Afternoon Social / Meetups,Afternoon,2,Cappuccino,4,None,0,5,12.36,1.68,1.01,65.4,30,8.2,94.4,26.1,55.2,1.7,0.0
+C0343,Afternoon Social / Meetups,Afternoon,2,Americano,2,Lunch Sandwich,3,4,13.49,1.37,0.19,25.4,65,12.3,68.8,0.0,34.5,2.1,18.8
+C0344,Afternoon Social / Meetups,Afternoon,2,Latte,3,Breakfast Sandwich,2,9,12.27,1.46,0.14,16.5,26,21.2,70.7,31.2,53.1,3.2,2.0
+C0345,Afternoon Social / Meetups,Afternoon,2,Tea,7,Pastry,1,1,14.44,1.29,1.37,75.9,30,17.4,90.3,19.7,84.4,1.8,27.2
+C0346,Afternoon Social / Meetups,Afternoon,2,Latte,3,Dessert,5,4,11.28,1.49,0.84,50.5,34,28.5,79.9,27.1,49.5,2.2,3.7
+C0347,Afternoon Social / Meetups,Afternoon,2,Iced Latte,8,Dessert,5,5,9.38,2.21,0.53,48.1,49,35.7,56.9,19.6,69.9,3.2,6.9
+C0348,Afternoon Social / Meetups,Afternoon,2,Drip Coffee,1,None,0,3,16.65,2.03,0.33,3.1,83,8.3,60.3,15.6,36.9,1.7,7.9
+C0349,Afternoon Social / Meetups,Afternoon,2,Cold Brew,5,Lunch Sandwich,3,7,10.97,1.67,0.5,42.4,74,11.2,77.4,11.7,47.4,3.1,14.1
+C0350,Afternoon Social / Meetups,Afternoon,2,Cappuccino,4,Lunch Sandwich,3,7,11.05,1.54,0.22,40.3,73,2.8,60.6,19.4,57.3,2.0,18.9
+C0351,Afternoon Social / Meetups,Afternoon,2,Iced Latte,8,Breakfast Sandwich,2,5,12.16,1.85,1.05,52.9,33,44.4,38.2,11.3,54.0,3.1,20.8
+C0352,Afternoon Social / Meetups,Afternoon,2,Iced Latte,8,Dessert,5,4,12.45,1.95,0.39,30.4,46,23.7,69.2,25.4,36.5,2.5,14.9
+C0353,Afternoon Social / Meetups,Afternoon,2,Cappuccino,4,Lunch Sandwich,3,5,11.45,1.26,1.14,68.0,67,25.8,47.8,0.0,35.9,2.2,0.0
+C0354,Afternoon Social / Meetups,Afternoon,2,Tea,7,None,0,5,12.26,1.52,0.54,38.0,44,3.9,94.2,8.5,62.8,2.0,23.7
+C0355,Afternoon Social / Meetups,Afternoon,2,Latte,3,Pastry,1,5,12.21,0.91,0.28,32.7,53,20.0,72.7,39.5,65.9,1.6,14.4
+C0356,Afternoon Social / Meetups,Afternoon,2,Cold Brew,5,Salad,4,5,12.68,1.94,0.53,44.9,71,26.1,56.4,7.5,70.7,2.0,28.9
+C0357,Afternoon Social / Meetups,Afternoon,2,Americano,2,Dessert,5,6,7.11,2.27,0.0,1.2,51,17.0,59.5,12.1,75.1,2.5,6.5
+C0358,Afternoon Social / Meetups,Afternoon,2,Cappuccino,4,None,0,7,16.44,1.58,0.65,54.2,66,32.9,41.7,4.4,50.0,2.0,0.0
+C0359,Afternoon Social / Meetups,Afternoon,2,Latte,3,None,0,3,11.98,0.81,0.63,46.9,100,47.7,53.5,19.0,43.3,1.8,14.6
+C0360,Afternoon Social / Meetups,Afternoon,2,Iced Latte,8,Lunch Sandwich,3,3,13.58,1.76,1.03,89.7,56,8.6,85.2,6.2,68.3,1.8,30.6
+C0361,Afternoon Social / Meetups,Afternoon,2,Cappuccino,4,None,0,2,9.27,1.23,0.0,1.2,89,7.7,100.0,12.8,58.7,2.6,16.9
+C0362,Afternoon Social / Meetups,Afternoon,2,Espresso,6,None,0,7,11.26,1.32,1.16,70.2,74,9.5,80.9,25.2,33.3,2.7,12.6
+C0363,Afternoon Social / Meetups,Afternoon,2,Latte,3,Dessert,5,6,10.82,1.77,1.03,50.6,23,39.3,68.6,6.6,32.5,1.6,4.6
+C0364,Afternoon Social / Meetups,Afternoon,2,Latte,3,Salad,4,6,15.53,1.64,1.2,65.5,32,32.5,63.5,24.5,55.4,1.6,36.1
+C0365,Afternoon Social / Meetups,Afternoon,2,Latte,3,Dessert,5,2,11.01,1.38,0.68,58.5,39,18.4,55.7,24.9,45.3,2.2,2.6
+C0366,Afternoon Social / Meetups,Afternoon,2,Seasonal Special,9,Lunch Sandwich,3,9,13.97,1.32,1.11,56.4,39,20.4,100.0,27.7,47.6,2.9,6.3
+C0367,Afternoon Social / Meetups,Afternoon,2,Iced Latte,8,Pastry,1,4,10.87,1.59,0.11,0.0,58,10.2,67.2,16.7,64.1,2.7,21.8
+C0368,Afternoon Social / Meetups,Afternoon,2,Latte,3,Dessert,5,5,11.3,1.41,0.99,63.1,75,30.7,100.0,53.9,59.4,1.2,0.0
+C0369,Afternoon Social / Meetups,Afternoon,2,Iced Latte,8,Pastry,1,7,11.76,1.16,0.39,43.3,91,15.4,90.9,27.7,67.9,1.8,30.3
+C0370,Afternoon Social / Meetups,Afternoon,2,Cappuccino,4,Pastry,1,3,15.12,1.43,0.04,4.3,68,16.9,43.9,18.9,19.0,1.4,22.5
+C0371,Afternoon Social / Meetups,Afternoon,2,Drip Coffee,1,Dessert,5,4,8.14,1.67,0.25,19.4,49,27.3,60.0,4.5,51.8,1.8,25.8
+C0372,Afternoon Social / Meetups,Afternoon,2,Cold Brew,5,Lunch Sandwich,3,5,9.41,1.49,0.7,35.5,8,17.7,60.0,13.8,58.4,3.0,21.7
+C0373,Afternoon Social / Meetups,Afternoon,2,Latte,3,Dessert,5,11,8.02,1.06,0.37,34.5,62,17.2,68.8,32.1,25.1,1.1,13.1
+C0374,Afternoon Social / Meetups,Afternoon,2,Latte,3,None,0,6,9.91,1.9,0.85,62.5,61,20.1,69.1,35.5,38.2,1.0,2.2
+C0375,Afternoon Social / Meetups,Afternoon,2,Tea,7,Dessert,5,8,10.51,0.7,0.0,0.0,65,29.5,100.0,32.7,35.4,1.5,13.3
+C0376,Afternoon Social / Meetups,Afternoon,2,Latte,3,Lunch Sandwich,3,7,8.75,1.39,0.0,9.1,113,39.8,53.8,24.4,48.3,2.2,3.3
+C0377,Afternoon Social / Meetups,Afternoon,2,Iced Latte,8,Lunch Sandwich,3,6,10.68,1.33,1.25,77.5,91,27.0,73.4,0.0,72.4,2.4,20.8
+C0378,Afternoon Social / Meetups,Afternoon,2,Tea,7,Dessert,5,3,7.87,1.6,1.06,74.4,80,29.6,79.2,20.8,78.3,2.3,24.7
+C0379,Afternoon Social / Meetups,Afternoon,2,Iced Latte,8,Pastry,1,7,10.06,1.75,0.28,29.1,36,17.6,70.0,0.1,35.8,2.7,32.7
+C0380,Afternoon Social / Meetups,Afternoon,2,Espresso,6,Lunch Sandwich,3,2,14.94,1.94,0.7,55.6,47,11.5,71.7,0.0,55.9,1.0,19.5
+C0381,Afternoon Social / Meetups,Afternoon,2,Iced Latte,8,Lunch Sandwich,3,8,13.19,1.3,1.11,71.2,58,27.8,54.3,17.9,56.4,2.7,26.1
+C0382,Afternoon Social / Meetups,Afternoon,2,Latte,3,Salad,4,5,12.71,1.76,0.87,65.1,41,22.1,71.6,21.3,53.8,1.8,11.4
+C0383,Afternoon Social / Meetups,Afternoon,2,Cold Brew,5,Dessert,5,1,10.09,1.62,0.76,38.7,73,2.9,77.7,25.8,54.0,2.4,9.3
+C0384,Afternoon Social / Meetups,Afternoon,2,Cold Brew,5,Lunch Sandwich,3,4,8.92,0.95,1.14,56.0,69,16.1,74.9,21.0,52.6,1.2,20.7
+C0385,Afternoon Social / Meetups,Afternoon,2,Seasonal Special,9,None,0,6,9.79,2.22,0.41,27.7,33,19.0,78.6,21.4,73.3,2.0,10.4
+C0386,Evening Treat / Decaf,Evening,3,Latte,3,Salad,4,3,7.47,1.23,1.08,54.4,38,5.0,16.0,22.8,50.9,2.4,4.4
+C0387,Evening Treat / Decaf,Evening,3,Latte,3,Breakfast Sandwich,2,4,7.36,1.18,0.7,41.2,36,32.5,28.8,13.8,51.9,2.2,25.7
+C0388,Evening Treat / Decaf,Evening,3,Seasonal Special,9,Dessert,5,4,6.37,1.11,0.61,38.6,36,26.3,0.9,1.3,70.4,1.2,2.8
+C0389,Evening Treat / Decaf,Evening,3,Cold Brew,5,Breakfast Sandwich,2,6,7.75,1.13,0.48,41.4,10,15.3,52.2,0.0,31.1,1.4,7.6
+C0390,Evening Treat / Decaf,Evening,3,Drip Coffee,1,Dessert,5,6,7.04,1.21,0.53,42.9,28,37.8,23.0,12.4,51.0,2.5,0.0
+C0391,Evening Treat / Decaf,Evening,3,Latte,3,Dessert,5,2,6.28,1.03,1.01,72.1,15,0.0,23.5,31.4,46.8,1.7,19.9
+C0392,Evening Treat / Decaf,Evening,3,Cappuccino,4,Dessert,5,4,11.22,1.04,0.55,48.3,2,30.2,17.5,34.1,52.5,1.5,31.0
+C0393,Evening Treat / Decaf,Evening,3,Seasonal Special,9,Dessert,5,2,8.79,1.53,0.41,42.2,19,49.3,60.5,18.3,70.3,2.0,0.0
+C0394,Evening Treat / Decaf,Evening,3,Latte,3,Salad,4,3,8.97,1.78,0.35,34.4,38,46.6,59.2,37.5,65.0,2.1,6.5
+C0395,Evening Treat / Decaf,Evening,3,Drip Coffee,1,Dessert,5,4,9.5,0.8,0.36,31.9,28,30.8,81.2,13.5,41.5,1.3,22.6
+C0396,Evening Treat / Decaf,Evening,3,Tea,7,None,0,1,9.31,0.79,0.06,14.6,46,20.5,31.3,25.4,57.5,1.7,0.0
+C0397,Evening Treat / Decaf,Evening,3,Americano,2,Lunch Sandwich,3,8,7.3,0.86,0.29,32.5,24,15.5,49.4,8.6,81.8,2.1,15.7
+C0398,Evening Treat / Decaf,Evening,3,Latte,3,Pastry,1,5,8.46,1.07,1.07,68.7,51,20.5,19.2,7.8,40.0,1.0,22.2
+C0399,Evening Treat / Decaf,Evening,3,Seasonal Special,9,None,0,2,7.54,1.32,0.48,48.3,24,33.2,38.3,5.9,57.6,1.6,10.8
+C0400,Evening Treat / Decaf,Evening,3,Tea,7,Dessert,5,7,8.75,1.25,0.8,36.3,22,12.9,34.6,0.0,51.5,1.0,15.5
+C0401,Evening Treat / Decaf,Evening,3,Drip Coffee,1,Dessert,5,3,8.58,1.14,0.0,0.0,7,36.4,54.3,29.4,53.9,1.1,27.6
+C0402,Evening Treat / Decaf,Evening,3,Cold Brew,5,Lunch Sandwich,3,4,7.35,1.23,0.75,50.3,35,57.0,65.3,6.3,25.6,1.3,29.5
+C0403,Evening Treat / Decaf,Evening,3,Latte,3,Pastry,1,3,5.74,0.93,0.49,48.0,16,24.1,64.8,4.4,80.4,1.8,9.4
+C0404,Evening Treat / Decaf,Evening,3,Americano,2,Dessert,5,6,8.25,1.04,0.38,44.2,14,4.8,28.1,0.0,41.1,1.4,4.7
+C0405,Evening Treat / Decaf,Evening,3,Tea,7,Breakfast Sandwich,2,3,7.65,1.09,0.61,34.1,37,4.8,65.0,11.5,73.5,1.3,0.8
+C0406,Evening Treat / Decaf,Evening,3,Tea,7,Dessert,5,4,4.79,0.7,0.38,42.9,36,36.6,44.1,35.2,43.8,1.6,19.8
+C0407,Evening Treat / Decaf,Evening,3,Tea,7,Dessert,5,6,8.86,0.81,0.0,0.0,36,24.1,38.5,39.1,43.7,1.0,0.0
+C0408,Evening Treat / Decaf,Evening,3,Seasonal Special,9,Pastry,1,5,9.64,0.82,0.87,49.0,18,38.2,30.8,0.0,76.8,1.8,7.5
+C0409,Evening Treat / Decaf,Evening,3,Latte,3,Pastry,1,3,12.3,1.29,0.64,45.4,21,17.0,33.8,9.7,72.9,2.2,11.0
+C0410,Evening Treat / Decaf,Evening,3,Seasonal Special,9,Pastry,1,5,7.33,1.16,0.44,33.1,21,37.5,79.8,1.6,58.8,1.6,5.0
+C0411,Evening Treat / Decaf,Evening,3,Tea,7,None,0,8,7.08,1.25,0.21,6.5,31,22.6,51.1,25.9,68.7,1.5,12.8
+C0412,Evening Treat / Decaf,Evening,3,Latte,3,Pastry,1,4,6.11,0.7,0.04,9.1,41,14.0,48.5,17.4,49.8,1.8,35.6
+C0413,Evening Treat / Decaf,Evening,3,Iced Latte,8,None,0,4,8.35,0.73,0.63,52.2,26,19.0,39.8,6.4,54.8,1.0,8.8
+C0414,Evening Treat / Decaf,Evening,3,Drip Coffee,1,None,0,4,8.34,1.27,1.11,75.5,46,7.0,93.9,14.9,43.1,1.9,5.6
+C0415,Evening Treat / Decaf,Evening,3,Tea,7,Pastry,1,6,6.62,0.7,0.62,42.7,33,54.8,71.1,8.3,71.3,3.2,20.2
+C0416,Evening Treat / Decaf,Evening,3,Tea,7,None,0,2,7.7,1.41,0.07,6.4,19,23.6,30.6,33.4,42.5,1.5,12.4
+C0417,Evening Treat / Decaf,Evening,3,Latte,3,Dessert,5,3,4.64,0.7,0.63,46.5,32,34.7,39.5,20.6,81.7,1.5,24.4
+C0418,Evening Treat / Decaf,Evening,3,Iced Latte,8,None,0,1,9.57,1.31,0.53,54.6,42,16.9,40.7,22.0,49.3,2.0,11.6
+C0419,Evening Treat / Decaf,Evening,3,Latte,3,Dessert,5,1,6.69,0.88,0.85,34.6,46,9.2,47.9,0.0,55.4,2.4,7.5
+C0420,Evening Treat / Decaf,Evening,3,Iced Latte,8,Pastry,1,3,7.94,1.36,0.76,45.6,36,21.5,31.0,13.2,68.7,2.1,0.0
+C0421,Evening Treat / Decaf,Evening,3,Drip Coffee,1,None,0,3,5.57,1.9,0.0,0.0,22,41.5,53.8,39.0,55.4,1.0,0.0
+C0422,Evening Treat / Decaf,Evening,3,Latte,3,None,0,7,7.01,0.7,0.74,43.6,19,17.2,74.0,29.9,49.6,1.9,0.0
+C0423,Evening Treat / Decaf,Evening,3,Cappuccino,4,Dessert,5,4,7.52,1.27,0.2,16.1,29,11.9,18.7,0.0,54.5,2.9,13.8
+C0424,Evening Treat / Decaf,Evening,3,Iced Latte,8,Pastry,1,2,7.98,0.7,0.05,3.9,42,27.3,22.4,10.2,71.1,1.9,0.0
+C0425,Evening Treat / Decaf,Evening,3,Latte,3,Lunch Sandwich,3,2,8.82,1.21,0.48,32.9,27,32.5,35.3,0.0,43.1,1.0,22.6
+C0426,Evening Treat / Decaf,Evening,3,Seasonal Special,9,None,0,6,10.45,1.05,0.69,50.4,27,49.6,36.3,34.5,52.7,1.7,10.3
+C0427,Evening Treat / Decaf,Evening,3,Latte,3,Dessert,5,6,9.25,1.13,0.0,5.0,23,30.3,85.0,16.9,55.2,1.0,7.6
+C0428,Evening Treat / Decaf,Evening,3,Cold Brew,5,None,0,4,9.64,0.87,0.8,53.2,18,34.7,65.0,4.8,70.6,2.2,1.6
+C0429,Evening Treat / Decaf,Evening,3,Cappuccino,4,Pastry,1,3,10.46,1.3,0.82,52.3,20,35.8,63.9,14.4,53.2,1.1,16.2
+C0430,Evening Treat / Decaf,Evening,3,Americano,2,Dessert,5,6,8.97,0.74,0.57,42.1,24,7.7,39.7,0.0,87.5,1.6,2.0
+C0431,Evening Treat / Decaf,Evening,3,Seasonal Special,9,Pastry,1,2,7.94,1.41,0.25,22.1,43,10.6,39.3,1.0,52.2,1.2,0.1
+C0432,Evening Treat / Decaf,Evening,3,Cold Brew,5,Pastry,1,4,9.72,1.0,0.21,5.0,19,8.7,16.0,14.4,50.7,1.3,21.9
+C0433,Evening Treat / Decaf,Evening,3,Tea,7,Dessert,5,8,9.82,0.75,0.91,63.4,23,5.0,60.6,24.1,51.9,2.3,13.5
+C0434,Evening Treat / Decaf,Evening,3,Tea,7,Pastry,1,4,9.1,1.5,0.02,0.0,12,36.9,54.8,0.0,31.3,1.7,7.7
+C0435,Evening Treat / Decaf,Evening,3,Tea,7,None,0,2,5.53,1.08,0.92,70.2,31,29.4,70.7,9.4,36.3,1.3,16.4
+C0436,Evening Treat / Decaf,Evening,3,Tea,7,Breakfast Sandwich,2,4,6.57,1.58,0.49,43.5,38,26.2,40.8,26.1,45.4,1.0,10.1
+C0437,Evening Treat / Decaf,Evening,3,Seasonal Special,9,None,0,3,7.53,1.41,0.52,49.9,41,0.0,42.2,0.0,75.4,1.0,13.8
+C0438,Evening Treat / Decaf,Evening,3,Tea,7,Dessert,5,1,9.33,0.9,0.0,0.0,24,55.8,48.4,16.8,54.4,1.0,1.8
+C0439,Evening Treat / Decaf,Evening,3,Tea,7,Dessert,5,5,7.96,1.08,0.5,36.4,29,11.6,62.8,14.8,46.3,1.7,30.7
+C0440,Evening Treat / Decaf,Evening,3,Tea,7,Salad,4,6,9.93,1.13,0.76,43.3,20,55.8,15.6,34.6,77.1,2.1,4.2
+C0441,Deal-Driven Promo Seekers,Afternoon,2,Seasonal Special,9,None,0,5,13.44,1.23,0.93,47.8,9,63.7,6.8,70.0,43.4,2.0,17.2
+C0442,Deal-Driven Promo Seekers,Morning,1,Cappuccino,4,Pastry,1,8,9.3,1.45,0.51,43.5,18,34.8,17.1,62.8,20.3,1.2,4.6
+C0443,Deal-Driven Promo Seekers,Afternoon,2,Cold Brew,5,None,0,6,10.68,1.21,0.96,58.5,11,74.6,30.1,81.4,49.9,1.3,18.6
+C0444,Deal-Driven Promo Seekers,Morning,1,Cappuccino,4,Pastry,1,6,7.34,1.36,0.48,44.8,6,62.1,20.8,62.8,52.5,1.2,0.0
+C0445,Deal-Driven Promo Seekers,Morning,1,Tea,7,Dessert,5,3,11.05,1.03,0.5,40.5,17,63.4,25.5,84.5,37.8,1.1,1.2
+C0446,Deal-Driven Promo Seekers,Morning,1,Cold Brew,5,Breakfast Sandwich,2,7,8.8,1.42,0.13,18.5,11,85.9,35.4,68.5,12.6,1.9,11.8
+C0447,Deal-Driven Promo Seekers,Morning,1,Latte,3,Dessert,5,6,7.63,1.36,0.82,57.5,16,52.1,41.2,27.9,33.3,1.9,19.7
+C0448,Deal-Driven Promo Seekers,Morning,1,Cold Brew,5,None,0,6,9.22,1.19,0.24,24.3,8,46.9,20.3,94.2,37.9,1.5,24.7
+C0449,Deal-Driven Promo Seekers,Afternoon,2,Seasonal Special,9,Pastry,1,8,8.87,1.33,0.38,26.6,2,50.1,9.3,46.4,17.8,1.3,8.4
+C0450,Deal-Driven Promo Seekers,Afternoon,2,Espresso,6,Dessert,5,9,9.15,1.39,0.55,37.3,26,56.5,26.1,77.4,29.6,1.5,26.4
+C0451,Deal-Driven Promo Seekers,Afternoon,2,Seasonal Special,9,Pastry,1,9,11.7,1.17,0.59,54.4,24,58.4,32.1,55.4,13.9,1.3,5.1
+C0452,Deal-Driven Promo Seekers,Afternoon,2,Tea,7,Lunch Sandwich,3,9,8.23,1.31,0.0,5.1,19,45.0,3.1,70.9,44.1,1.2,19.0
+C0453,Deal-Driven Promo Seekers,Morning,1,Seasonal Special,9,Dessert,5,6,13.27,1.05,0.47,29.3,9,23.6,11.6,44.7,37.5,1.4,0.0
+C0454,Deal-Driven Promo Seekers,Morning,1,Latte,3,Lunch Sandwich,3,5,7.15,2.05,0.83,57.8,10,49.9,14.2,64.4,10.3,1.1,12.2
+C0455,Deal-Driven Promo Seekers,Afternoon,2,Seasonal Special,9,Pastry,1,4,13.03,1.67,0.42,15.3,23,66.5,21.9,51.2,40.3,1.4,0.0
+C0456,Deal-Driven Promo Seekers,Evening,3,Latte,3,Breakfast Sandwich,2,5,7.77,1.43,0.47,32.9,9,62.5,13.6,78.7,34.2,1.4,0.0
+C0457,Deal-Driven Promo Seekers,Morning,1,Drip Coffee,1,None,0,7,9.8,1.7,0.61,53.4,7,81.6,35.6,61.6,42.7,1.5,12.7
+C0458,Deal-Driven Promo Seekers,Morning,1,Latte,3,None,0,5,8.82,0.76,0.51,38.9,27,95.2,0.9,69.0,29.1,1.1,0.0
+C0459,Deal-Driven Promo Seekers,Afternoon,2,Drip Coffee,1,None,0,7,9.11,0.7,0.19,18.2,12,73.7,1.3,22.5,23.0,1.6,12.3
+C0460,Deal-Driven Promo Seekers,Evening,3,Seasonal Special,9,Dessert,5,4,11.4,1.23,0.54,17.6,26,84.9,20.0,53.7,23.4,1.0,17.1
+C0461,Deal-Driven Promo Seekers,Morning,1,Seasonal Special,9,Lunch Sandwich,3,2,12.8,0.94,0.9,56.2,2,73.8,22.4,61.2,26.9,1.1,3.0
+C0462,Deal-Driven Promo Seekers,Morning,1,Seasonal Special,9,Pastry,1,9,12.18,1.28,0.18,19.2,16,90.8,3.2,58.4,35.3,1.1,0.0
+C0463,Deal-Driven Promo Seekers,Morning,1,Americano,2,Pastry,1,6,8.99,1.41,0.42,38.0,29,93.3,15.9,69.4,37.2,1.0,3.3
+C0464,Deal-Driven Promo Seekers,Afternoon,2,Seasonal Special,9,Lunch Sandwich,3,4,10.17,1.63,0.07,14.5,12,77.1,19.0,49.5,32.1,1.7,0.0
+C0465,Deal-Driven Promo Seekers,Evening,3,Iced Latte,8,Dessert,5,4,8.24,1.01,0.88,56.8,10,72.7,19.1,55.7,28.7,1.0,7.0
+C0466,Deal-Driven Promo Seekers,Afternoon,2,Cappuccino,4,Pastry,1,8,7.82,1.47,0.52,39.2,3,56.3,27.3,72.7,29.7,1.0,9.0
+C0467,Deal-Driven Promo Seekers,Morning,1,Espresso,6,Pastry,1,11,7.51,1.35,0.25,11.5,21,59.3,15.1,20.8,72.6,1.8,4.9
+C0468,Deal-Driven Promo Seekers,Afternoon,2,Iced Latte,8,Dessert,5,6,8.92,1.45,0.58,42.4,6,53.9,47.2,63.8,23.4,1.1,24.7
+C0469,Deal-Driven Promo Seekers,Afternoon,2,Drip Coffee,1,Dessert,5,6,10.3,1.19,0.13,2.1,11,71.2,32.3,50.0,26.6,1.2,0.8
+C0470,Deal-Driven Promo Seekers,Afternoon,2,Espresso,6,Dessert,5,10,5.98,1.76,0.19,2.5,2,47.0,12.9,41.3,84.4,1.0,21.9
+C0471,Deal-Driven Promo Seekers,Afternoon,2,Iced Latte,8,Pastry,1,2,9.71,1.32,0.04,0.0,24,56.6,26.4,60.0,41.3,1.6,0.0
+C0472,Deal-Driven Promo Seekers,Morning,1,Latte,3,None,0,13,12.83,1.88,0.18,28.5,21,17.6,26.9,73.4,14.3,1.6,8.7
+C0473,Deal-Driven Promo Seekers,Morning,1,Cold Brew,5,Pastry,1,14,12.04,1.11,1.03,62.1,12,91.0,43.2,70.6,47.6,1.6,19.8
+C0474,Deal-Driven Promo Seekers,Afternoon,2,Tea,7,Pastry,1,1,8.63,1.57,0.29,26.9,3,56.0,16.0,53.0,21.3,1.5,19.3
+C0475,Deal-Driven Promo Seekers,Afternoon,2,Iced Latte,8,Dessert,5,7,7.01,1.33,0.71,46.7,24,68.2,36.5,68.1,48.6,1.3,3.8
+C0476,Deal-Driven Promo Seekers,Evening,3,Seasonal Special,9,None,0,5,10.72,1.25,0.26,8.6,9,86.2,25.6,68.0,31.8,1.1,13.6
+C0477,Deal-Driven Promo Seekers,Afternoon,2,Seasonal Special,9,Lunch Sandwich,3,6,5.17,1.54,0.82,63.4,3,65.4,47.4,53.7,28.4,1.0,12.2
+C0478,Deal-Driven Promo Seekers,Morning,1,Iced Latte,8,Dessert,5,6,12.02,1.26,0.19,0.0,2,86.0,44.4,44.6,59.1,1.8,2.6
+C0479,Deal-Driven Promo Seekers,Morning,1,Tea,7,Dessert,5,9,9.37,0.7,0.56,38.4,7,37.6,28.0,45.5,43.5,1.6,14.2
+C0480,Deal-Driven Promo Seekers,Afternoon,2,Iced Latte,8,Lunch Sandwich,3,7,13.46,0.7,0.57,43.0,2,100.0,21.1,67.6,49.6,1.0,26.6
+C0481,Deal-Driven Promo Seekers,Morning,1,Tea,7,Dessert,5,4,6.35,1.73,1.36,76.2,7,79.6,32.6,54.4,41.5,1.3,12.7
+C0482,Deal-Driven Promo Seekers,Afternoon,2,Drip Coffee,1,None,0,6,11.64,1.72,0.77,47.9,18,63.8,22.3,39.3,28.3,1.2,13.7
+C0483,Deal-Driven Promo Seekers,Morning,1,Iced Latte,8,Pastry,1,9,9.6,1.92,0.34,14.1,9,85.7,50.2,29.7,44.2,1.0,14.7
+C0484,Deal-Driven Promo Seekers,Morning,1,Iced Latte,8,None,0,3,9.14,1.34,0.79,48.2,15,39.0,26.2,67.5,53.1,1.4,0.0
+C0485,Deal-Driven Promo Seekers,Afternoon,2,Espresso,6,Dessert,5,2,7.06,0.96,1.3,66.8,6,54.8,18.9,46.8,37.0,1.1,12.6
+C0486,Deal-Driven Promo Seekers,Morning,1,Seasonal Special,9,Dessert,5,13,10.99,1.22,0.0,0.0,13,86.0,18.1,60.0,62.0,1.0,0.0
+C0487,Deal-Driven Promo Seekers,Afternoon,2,Iced Latte,8,None,0,5,11.15,1.35,0.26,30.7,27,26.4,6.8,73.6,47.8,1.0,2.1
+C0488,Deal-Driven Promo Seekers,Afternoon,2,Cappuccino,4,None,0,7,13.37,1.05,0.47,27.8,9,70.1,33.3,35.4,38.2,1.0,29.6
+C0489,Deal-Driven Promo Seekers,Afternoon,2,Drip Coffee,1,Pastry,1,6,11.82,1.84,0.4,35.4,15,69.6,12.7,54.3,38.8,1.2,5.5
+C0490,Deal-Driven Promo Seekers,Afternoon,2,Drip Coffee,1,Pastry,1,9,8.61,2.02,0.43,36.2,2,95.4,41.5,52.4,37.1,1.3,0.6
+C0491,Deal-Driven Promo Seekers,Afternoon,2,Cappuccino,4,Dessert,5,12,7.79,1.49,0.09,16.3,24,31.5,5.6,60.7,16.2,1.0,19.5
+C0492,Deal-Driven Promo Seekers,Afternoon,2,Cold Brew,5,None,0,9,7.06,1.35,1.04,63.6,8,89.0,26.9,73.6,33.6,1.6,0.0
+C0493,Deal-Driven Promo Seekers,Morning,1,Latte,3,Salad,4,2,12.75,0.96,0.05,11.2,20,49.9,42.3,35.1,38.3,1.3,3.5
+C0494,Deal-Driven Promo Seekers,Morning,1,Latte,3,Lunch Sandwich,3,3,8.24,1.81,0.48,36.7,11,52.0,0.0,63.5,28.8,1.5,20.5
+C0495,Deal-Driven Promo Seekers,Afternoon,2,Latte,3,Pastry,1,6,12.76,1.37,0.92,63.6,17,38.0,55.3,70.5,40.1,1.2,8.4
+C0496,Deal-Driven Promo Seekers,Afternoon,2,Seasonal Special,9,None,0,6,10.85,1.26,0.54,29.7,17,40.4,18.6,52.2,35.3,1.0,0.0
+C0497,Deal-Driven Promo Seekers,Afternoon,2,Seasonal Special,9,Dessert,5,2,10.46,1.49,0.21,0.0,8,67.3,27.1,52.9,46.6,1.3,13.4
+C0498,Deal-Driven Promo Seekers,Afternoon,2,Cappuccino,4,Lunch Sandwich,3,9,9.19,1.17,0.08,10.7,21,40.0,33.6,61.3,44.9,1.0,4.0
+C0499,Deal-Driven Promo Seekers,Afternoon,2,Latte,3,Pastry,1,4,11.12,1.39,0.47,40.9,6,73.3,35.9,60.2,37.5,1.5,23.4
+C0500,Deal-Driven Promo Seekers,Morning,1,Americano,2,Pastry,1,11,9.77,0.92,0.29,29.0,18,48.1,29.1,63.7,14.5,1.0,1.9
